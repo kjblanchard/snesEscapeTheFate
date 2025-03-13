@@ -1,4 +1,14 @@
+# Files created from building
 *.sfc
 *.sym
+*.pal
+*.pic
+*.m16
+*.o16
+*.t16
+*.map
 linkfile
+# macos
+.DS_Store
+# IDE config
 .vscode/
